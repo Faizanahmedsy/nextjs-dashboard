@@ -4,6 +4,8 @@ import Link from 'next/link';
 import { lusitana } from './ui/fonts';
 import Image from 'next/image';
 
+//This is the home page, similar to the app.js file in react
+
 export default function Page() {
   return (
     <main className="flex min-h-screen flex-col p-6">
